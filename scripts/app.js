@@ -1,6 +1,7 @@
-const toogleButton = document.querySelector('.fa-bars');
+const toggleButton = document.querySelector('.toggle-menu');
+const navBar = document.querySelector('.nav-bar');
 
-// console.log(toogleButton)
-toogleButton.addEventListener('click', () => {
-    console.log("Tahiry is a remote developer")
+
+toggleButton.addEventListener('click', function () {
+    navBar.classList.toggle('toggle');
 });
