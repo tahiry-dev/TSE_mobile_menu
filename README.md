@@ -4,7 +4,7 @@
 
 > Practice review skills on a small project
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/47100064/124104105-9b30fe80-da6a-11eb-8112-a1c7b2707355.png)
 
 
 ## Built With
